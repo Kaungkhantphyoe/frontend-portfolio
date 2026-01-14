@@ -1,3 +1,29 @@
+🚀 Modern Developer Portfolio
+A sleek, responsive, and high-performance portfolio website built with Next.js and Tailwind CSS. This project showcases my frontend development skills, featured projects, and technical expertise.
+
+✨ Key Features
+Responsive Design: Fully optimized for all screen sizes from mobile devices to large desktops.
+Modern UI/UX: Features Glassmorphism effects, smooth transitions, and a dark-themed aesthetic.
+Interactive Components: Includes a functional mobile navigation toggle and hover-animated project cards.
+Direct Contact Integration: Integrated links for Viber, Telegram, and Email for seamless communication.
+
+🛠️ Tech Stack
+Framework: Next.js 14+ (App Router)
+Styling: Tailwind CSS
+Language: JavaScript / React
+Deployment Ready: Optimized for Vercel deployment.
+
+🚀 Getting Started
+First, run the development server:
+
+````bash
+npm run dev
+
+Open http://localhost:3000 with your browser to see the result.
+📬 Contact Me
+Email: kaungkhantphyoe@gmail.com
+GitHub: @Kaungkhantphyoe
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
@@ -12,7 +38,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+````
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
