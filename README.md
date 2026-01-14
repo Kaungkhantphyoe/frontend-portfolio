@@ -1,14 +1,17 @@
-🚀 Modern Developer Portfolio
+## 🚀 Modern Developer Portfolio
+
 A sleek, responsive, and high-performance portfolio website built with Next.js and Tailwind CSS. This project showcases my frontend development skills, featured projects, and technical expertise.
 
-✨ Key Features
+## ✨ Key Features
+
 Responsive Design: Fully optimized for all screen sizes from mobile devices to large desktops.
 Modern UI/UX: Features Glassmorphism effects, smooth transitions, and a dark-themed aesthetic.
 Interactive Components: Includes a functional mobile navigation toggle and hover-animated project cards.
 Direct Contact Integration: Integrated links for Viber, Telegram, and Email for seamless communication.
 
-🛠️ Tech Stack
-Framework: Next.js 14+ (App Router)
+## 🛠️ Tech Stack
+
+Framework: Next.js (App Router)
 Styling: Tailwind CSS
 Language: JavaScript / React
 Deployment Ready: Optimized for Vercel deployment.
