@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   reactCompiler: true,
   reactStrictMode: true,
   output: "export",
+  basePath: "/frontend-portfolio",
   images: {
     unoptimized: true,
   },
