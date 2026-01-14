@@ -8,7 +8,7 @@ export default function About() {
           <div className="absolute -inset-1 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-2xl blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
           <div className="relative aspect-square rounded-2xl bg-slate-800 border border-slate-700 flex items-center justify-center overflow-hidden">
             <img
-              src="/mypho.jpg"
+              src="/frontend-portfolio/mypho.jpg"
               alt="Kaung Khant Phyo"
               className="w-full h-full object-cover group-hover:scale-110 transition duration-500"
             />

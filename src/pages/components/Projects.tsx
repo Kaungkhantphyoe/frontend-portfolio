@@ -3,7 +3,7 @@
 const projects = [
   {
     title: "CINEFLIX Movie App",
-    image: "/flix.png",
+    image: "/frontend-portfolio/flix.png",
     desc: "A modern movie discovery platform with dynamic grid and professional dark UI.",
     tags: ["React", "TypeScript", "MUI"],
     link: "https://kaungkhantphyoe.github.io/my-cinema/",
@@ -11,7 +11,7 @@ const projects = [
   },
   {
     title: "SaaS Pricing Tool",
-    image: "/saas.png",
+    image: "/frontend-portfolio/saas.png",
     desc: "Interactive pricing component with real-time calculations and custom slider.",
     tags: ["JavaScript", "CSS", "DOM"],
     link: "https://kaungkhantphyoe.github.io/saas-pricing-js/",
@@ -19,7 +19,7 @@ const projects = [
   },
   {
     title: "Aura Modern Agency",
-    image: "/aura.png",
+    image: "/frontend-portfolio/aura.png",
     desc: "Responsive landing page for a creative agency built with modern styling.",
     tags: ["Tailwind CSS", "HTML", "Responsive"],
     link: "https://kaungkhantphyoe.github.io/tailwind-test1/",
